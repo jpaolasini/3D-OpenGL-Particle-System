@@ -1,0 +1,297 @@
+TAssignment2
+v6
+r1
+cCheck dependencies
+cCompileC build/Assignment2.build/Debug/Assignment2.build/Objects-normal/x86_64/Assignment1.o /Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Assignment2.build/Debug/Assignment2.build/Objects-normal/x86_64/Particle.o /Users/Jason/Documents/Developer/Assignment2/Assignment2/Particle.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Assignment2.build/Debug/Assignment2.build/Objects-normal/x86_64/2DMathLib.o /Users/Jason/Documents/Developer/Assignment2/Assignment2/2DMathLib.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/Jason/Documents/Developer/Assignment2/build/Debug/Assignment2 normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c000000005243E79F00000000000000AA
+t1380181919
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c0000000052689EA6000000000000044C
+t1382588070
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000052689EA600000000000001DB
+t1382588070
+s475
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/GLUT
+c0000000052689EA800000000000135D4
+t1382588072
+s79316
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/OpenGL
+c0000000052689EA9000000000000BB7C
+t1382588073
+s47996
+
+N/Users/Jason/Documents/Developer/Assignment2/Assignment2/2DMathLib.cpp
+c00000000524DDE3200000000000006CD
+t1380834866
+s1741
+
+N/Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp
+c00000000525468BE000000000000336C
+t1381263550
+s13164
+
+N/Users/Jason/Documents/Developer/Assignment2/Assignment2/Particle.cpp
+c00000000524DD91200000000000001CE
+t1380833554
+s462
+
+N/Users/Jason/Documents/Developer/Assignment2/build/Assignment2.build/Debug/Assignment2.build/Objects-normal/x86_64/2DMathLib.o
+t1382656193
+s11896
+
+N/Users/Jason/Documents/Developer/Assignment2/build/Assignment2.build/Debug/Assignment2.build/Objects-normal/x86_64/Assignment1.o
+t1382656193
+s104232
+
+N/Users/Jason/Documents/Developer/Assignment2/build/Assignment2.build/Debug/Assignment2.build/Objects-normal/x86_64/Assignment2.LinkFileList
+c000000005269A8C1000000000000017E
+t1382656193
+s382
+
+N/Users/Jason/Documents/Developer/Assignment2/build/Assignment2.build/Debug/Assignment2.build/Objects-normal/x86_64/Particle.o
+t1382656193
+s5648
+
+N/Users/Jason/Documents/Developer/Assignment2/build/Debug/Assignment2
+t2
+s0
+
+CBuild AST from /Users/Jason/Documents/Developer/Assignment2/Assignment2/2DMathLib.cpp
+r0
+
+CBuild AST from /Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp
+r0
+
+CBuild AST from /Users/Jason/Documents/Developer/Assignment2/Assignment2/Particle.cpp
+r0
+
+CBuild AST from /Users/Jason/Documents/Developer/Assignment2/Assignment2/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies6bd73c41e019b841^de584041e019b841^---0#1#1#--18"Check dependencies36"B32B7C3F-462C-4B59-8918-6C595275B171-
+
+CCompileC build/Assignment2.build/Debug/Assignment2.build/Objects-normal/x86_64/2DMathLib.o /Users/Jason/Documents/Developer/Assignment2/Assignment2/2DMathLib.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s404348993.257086
+e404348993.442806
+r1
+xCompileC
+xbuild/Assignment2.build/Debug/Assignment2.build/Objects-normal/x86_64/2DMathLib.o
+x/Users/Jason/Documents/Developer/Assignment2/Assignment2/2DMathLib.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Jason/Documents/Developer/Assignment2/Assignment2/2DMathLib.cpp
+d/Users/Jason/Documents/Developer/Assignment2/Assignment2/2DMathLib.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/Jason/Documents/Developer/Assignment2/Assignment2/2DMathLib.cpp178"CompileC build/Assignment2.build/Debug/Assignment2.build/Objects-normal/x86_64/2DMathLib.o Assignment2/2DMathLib.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler85ef4141e019b841^d15a7141e019b841^---0#0#1#-19%DVTDocumentLocation2@77"file:///Users/Jason/Documents/Developer/Assignment2/Assignment2/2DMathLib.cpp0000000000000000^2862"CompileC build/Assignment2.build/Debug/Assignment2.build/Objects-normal/x86_64/2DMathLib.o Assignment2/2DMathLib.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Jason/Documents/Developer/Assignment2    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/Jason/Documents/Developer/Assignment2/build/Assignment2.build/Debug/Assignment2.build/Assignment2-generated-files.hmap -I/Users/Jason/Documents/Developer/Assignment2/build/Assignment2.build/Debug/Assignment2.build/Assignment2-own-target-headers.hmap -I/Users/Jason/Documents/Developer/Assignment2/build/Assignment2.build/Debug/Assignment2.build/Assignment2-all-target-headers.hmap -iquote /Users/Jason/Documents/Developer/Assignment2/build/Assignment2.build/Debug/Assignment2.build/Assignment2-project-headers.hmap -I/Users/Jason/Documents/Developer/Assignment2/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Jason/Documents/Developer/Assignment2/build/Assignment2.build/Debug/Assignment2.build/DerivedSources/x86_64 -I/Users/Jason/Documents/Developer/Assignment2/build/Assignment2.build/Debug/Assignment2.build/DerivedSources -F/Users/Jason/Documents/Developer/Assignment2/build/Debug -MMD -MT dependencies -MF /Users/Jason/Documents/Developer/Assignment2/build/Assignment2.build/Debug/Assignment2.build/Objects-normal/x86_64/2DMathLib.d --serialize-diagnostics /Users/Jason/Documents/Developer/Assignment2/build/Assignment2.build/Debug/Assignment2.build/Objects-normal/x86_64/2DMathLib.dia -c /Users/Jason/Documents/Developer/Assignment2/Assignment2/2DMathLib.cpp -o /Users/Jason/Documents/Developer/Assignment2/build/Assignment2.build/Debug/Assignment2.build/Objects-normal/x86_64/2DMathLib.o36"6B91227F-6E1A-43F2-A320-82C880B31D0B-
+b6CC2F363-0896-4FE6-BD49-3EBED67C818D
+
+CCompileC build/Assignment2.build/Debug/Assignment2.build/Objects-normal/x86_64/Assignment1.o /Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s404348993.254690
+e404348993.756125
+r1
+xCompileC
+xbuild/Assignment2.build/Debug/Assignment2.build/Objects-normal/x86_64/Assignment1.o
+x/Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp
+d/Users/Jason/Documents/Developer/Assignment2/Assignment2/2DMathLib.h
+d/Users/Jason/Documents/Developer/Assignment2/Assignment2/Particle.h
+o/Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp:474:5: warning: 'glutSwapBuffers' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o    glutSwapBuffers();
+o    ^
+oIn file included from /Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp:8:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:448:22: note: 'glutSwapBuffers' declared here
+oextern void APIENTRY glutSwapBuffers(void) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp:478:5: warning: 'glutPostRedisplay' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o    glutPostRedisplay();
+o    ^
+oIn file included from /Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp:8:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:444:22: note: 'glutPostRedisplay' declared here
+oextern void APIENTRY glutPostRedisplay(void) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp:492:2: warning: 'glutInit' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutInit(&argc, argv);          //starts up GLUT
+o        ^
+oIn file included from /Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp:8:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:431:22: note: 'glutInit' declared here
+oextern void APIENTRY glutInit(int *argcp, char **argv) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp:493:2: warning: 'glutInitWindowSize' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutInitWindowSize(WINDOW_WIDTH, WINDOW_HEIGHT);
+o        ^
+oIn file included from /Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp:8:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:437:22: note: 'glutInitWindowSize' declared here
+oextern void APIENTRY glutInitWindowSize(int width, int height) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp:495:5: warning: 'glutInitDisplayMode' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o    glutInitDisplayMode(GLUT_DOUBLE);
+o    ^
+oIn file included from /Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp:8:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:432:22: note: 'glutInitDisplayMode' declared here
+oextern void APIENTRY glutInitDisplayMode(unsigned int mode) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp:496:2: warning: 'glutCreateWindow' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutCreateWindow("Particle Invasion");  //creates the window
+o        ^
+oIn file included from /Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp:8:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:441:21: note: 'glutCreateWindow' declared here
+oextern int APIENTRY glutCreateWindow(const char *title) OPENGL_DEPRECATED(10_0, 10_9);
+o                    ^
+o/Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp:500:5: warning: 'gluOrtho2D' is deprecated: first deprecated in OS X 10.9 - "Use GLKMatrix4MakeOrtho" [-Wdeprecated-declarations]
+o    gluOrtho2D(0, WINDOW_WIDTH, 0, WINDOW_HEIGHT);
+o    ^
+oIn file included from /Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp:8:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:61:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Headers/glu.h:276:13: note: 'gluOrtho2D' declared here
+oextern void gluOrtho2D (GLdouble left, GLdouble right, GLdouble bottom, GLdouble top) OPENGL_DEPRECATED_MSG(10_0, 10_9, "Use GLKMatrix4MakeOrtho");
+o            ^
+o/Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp:501:5: warning: 'glutMouseFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o    glutMouseFunc(mouse);
+o    ^
+oIn file included from /Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp:8:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:508:22: note: 'glutMouseFunc' declared here
+oextern void APIENTRY glutMouseFunc(void (*func)(int button, int state, int x, int y)) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp:502:5: warning: 'glutKeyboardFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o    glutKeyboardFunc(processNormalKeys);
+o    ^
+oIn file included from /Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp:8:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:507:22: note: 'glutKeyboardFunc' declared here
+oextern void APIENTRY glutKeyboardFunc(void (*func)(unsigned char key, int x, int y)) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp:503:2: warning: 'glutDisplayFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutDisplayFunc(display);       //registers "display" as the display callback function
+o        ^
+oIn file included from /Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp:8:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:505:22: note: 'glutDisplayFunc' declared here
+oextern void APIENTRY glutDisplayFunc(void (*func)(void)) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp:504:5: warning: 'glutSpecialFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o    glutSpecialFunc(specialKeys);
+o    ^
+oIn file included from /Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp:8:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:517:22: note: 'glutSpecialFunc' declared here
+oextern void APIENTRY glutSpecialFunc(void (*func)(int key, int x, int y)) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp:505:5: warning: 'glutMotionFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o    glutMotionFunc(updateLocation);
+o    ^
+oIn file included from /Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp:8:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:509:22: note: 'glutMotionFunc' declared here
+oextern void APIENTRY glutMotionFunc(void (*func)(int x, int y)) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp:507:5: warning: 'glutIdleFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o    glutIdleFunc(idle);
+o    ^
+oIn file included from /Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp:8:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:513:22: note: 'glutIdleFunc' declared here
+oextern void APIENTRY glutIdleFunc(void (*func)(void)) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp:512:2: warning: 'glutMainLoop' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutMainLoop();                         //starts the event loop
+o        ^
+oIn file included from /Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp:8:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:438:22: note: 'glutMainLoop' declared here
+oextern void APIENTRY glutMainLoop(void) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp:490:11: warning: implicit conversion loses integer precision: 'time_t' (aka 'long') to 'unsigned int' [-Wshorten-64-to-32]
+o    srand(time(0));
+o    ~~~~~ ^~~~~~~
+o15 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp182"CompileC build/Assignment2.build/Debug/Assignment2.build/Objects-normal/x86_64/Assignment1.o Assignment2/Assignment1.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler37894141e019b841^1591c141e019b841^-9550"/Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp:474:5: warning: 'glutSwapBuffers' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]    glutSwapBuffers();    ^In file included from /Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp:8:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:448:22: note: 'glutSwapBuffers' declared hereextern void APIENTRY glutSwapBuffers(void) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp:478:5: warning: 'glutPostRedisplay' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]    glutPostRedisplay();    ^In file included from /Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp:8:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:444:22: note: 'glutPostRedisplay' declared hereextern void APIENTRY glutPostRedisplay(void) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp:492:2: warning: 'glutInit' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutInit(&argc, argv);          //starts up GLUT        ^In file included from /Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp:8:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:431:22: note: 'glutInit' declared hereextern void APIENTRY glutInit(int *argcp, char **argv) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp:493:2: warning: 'glutInitWindowSize' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutInitWindowSize(WINDOW_WIDTH, WINDOW_HEIGHT);        ^In file included from /Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp:8:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:437:22: note: 'glutInitWindowSize' declared hereextern void APIENTRY glutInitWindowSize(int width, int height) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp:495:5: warning: 'glutInitDisplayMode' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]    glutInitDisplayMode(GLUT_DOUBLE);    ^In file included from /Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp:8:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:432:22: note: 'glutInitDisplayMode' declared hereextern void APIENTRY glutInitDisplayMode(unsigned int mode) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp:496:2: warning: 'glutCreateWindow' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutCreateWindow("Particle Invasion");  //creates the window        ^In file included from /Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp:8:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:441:21: note: 'glutCreateWindow' declared hereextern int APIENTRY glutCreateWindow(const char *title) OPENGL_DEPRECATED(10_0, 10_9);                    ^/Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp:500:5: warning: 'gluOrtho2D' is deprecated: first deprecated in OS X 10.9 - "Use GLKMatrix4MakeOrtho" [-Wdeprecated-declarations]    gluOrtho2D(0, WINDOW_WIDTH, 0, WINDOW_HEIGHT);    ^In file included from /Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp:8:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:61:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Headers/glu.h:276:13: note: 'gluOrtho2D' declared hereextern void gluOrtho2D (GLdouble left, GLdouble right, GLdouble bottom, GLdouble top) OPENGL_DEPRECATED_MSG(10_0, 10_9, "Use GLKMatrix4MakeOrtho");            ^/Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp:501:5: warning: 'glutMouseFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]    glutMouseFunc(mouse);    ^In file included from /Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp:8:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:508:22: note: 'glutMouseFunc' declared hereextern void APIENTRY glutMouseFunc(void (*func)(int button, int state, int x, int y)) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp:502:5: warning: 'glutKeyboardFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]    glutKeyboardFunc(processNormalKeys);    ^In file included from /Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp:8:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:507:22: note: 'glutKeyboardFunc' declared hereextern void APIENTRY glutKeyboardFunc(void (*func)(unsigned char key, int x, int y)) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp:503:2: warning: 'glutDisplayFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutDisplayFunc(display);       //registers "display" as the display callback function        ^In file included from /Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp:8:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:505:22: note: 'glutDisplayFunc' declared hereextern void APIENTRY glutDisplayFunc(void (*func)(void)) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp:504:5: warning: 'glutSpecialFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]    glutSpecialFunc(specialKeys);    ^In file included from /Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp:8:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:517:22: note: 'glutSpecialFunc' declared hereextern void APIENTRY glutSpecialFunc(void (*func)(int key, int x, int y)) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp:505:5: warning: 'glutMotionFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]    glutMotionFunc(updateLocation);    ^In file included from /Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp:8:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:509:22: note: 'glutMotionFunc' declared hereextern void APIENTRY glutMotionFunc(void (*func)(int x, int y)) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp:507:5: warning: 'glutIdleFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]    glutIdleFunc(idle);    ^In file included from /Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp:8:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:513:22: note: 'glutIdleFunc' declared hereextern void APIENTRY glutIdleFunc(void (*func)(void)) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp:512:2: warning: 'glutMainLoop' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutMainLoop();                         //starts the event loop        ^In file included from /Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp:8:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:438:22: note: 'glutMainLoop' declared hereextern void APIENTRY glutMainLoop(void) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp:490:11: warning: implicit conversion loses integer precision: 'time_t' (aka 'long') to 'unsigned int' [-Wshorten-64-to-32]    srand(time(0));    ~~~~~ ^~~~~~~15 warnings generated.15(36%IDEClangDiagnosticActivityLogMessage2@62"'glutSwapBuffers' is deprecated: first deprecated in OS X 10.9-404348993#18446744073709551615#0#1(2@31"'glutSwapBuffers' declared here-404348993#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h0000000000000000^447#21#447#21#13979#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@79"file:///Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp0000000000000000^473#4#473#4#12030#0#12"Deprecations--2@64"'glutPostRedisplay' is deprecated: first deprecated in OS X 10.9-404348993#18446744073709551615#0#1(2@33"'glutPostRedisplay' declared here-404348993#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h0000000000000000^443#21#443#21#13749#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@79"file:///Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp0000000000000000^477#4#477#4#12077#0#12"Deprecations--2@55"'glutInit' is deprecated: first deprecated in OS X 10.9-404348993#18446744073709551615#0#1(2@24"'glutInit' declared here-404348993#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h0000000000000000^430#21#430#21#12845#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@79"file:///Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp0000000000000000^491#1#491#1#12421#0#12"Deprecations--2@65"'glutInitWindowSize' is deprecated: first deprecated in OS X 10.9-404348993#18446744073709551615#0#1(2@34"'glutInitWindowSize' declared here-404348993#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h0000000000000000^436#21#436#21#13273#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@79"file:///Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp0000000000000000^492#1#492#1#12464#0#12"Deprecations--2@66"'glutInitDisplayMode' is deprecated: first deprecated in OS X 10.9-404348993#18446744073709551615#0#1(2@35"'glutInitDisplayMode' declared here-404348993#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h0000000000000000^431#21#431#21#12931#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@79"file:///Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp0000000000000000^494#4#494#4#12524#0#12"Deprecations--2@63"'glutCreateWindow' is deprecated: first deprecated in OS X 10.9-404348993#18446744073709551615#0#1(2@32"'glutCreateWindow' declared here-404348993#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h0000000000000000^440#20#440#20#13465#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@79"file:///Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp0000000000000000^495#1#495#1#12560#0#12"Deprecations--2@85"'gluOrtho2D' is deprecated: first deprecated in OS X 10.9 - "Use GLKMatrix4MakeOrtho"-404348993#18446744073709551615#0#1(2@26"'gluOrtho2D' declared here-404348993#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@162"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Headers/glu.h0000000000000000^275#12#275#12#15525#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@79"file:///Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp0000000000000000^499#4#499#4#12666#0#12"Deprecations--2@60"'glutMouseFunc' is deprecated: first deprecated in OS X 10.9-404348993#18446744073709551615#0#1(2@29"'glutMouseFunc' declared here-404348993#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h0000000000000000^507#21#507#21#17783#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@79"file:///Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp0000000000000000^500#4#500#4#12718#0#12"Deprecations--2@63"'glutKeyboardFunc' is deprecated: first deprecated in OS X 10.9-404348993#18446744073709551615#0#1(2@32"'glutKeyboardFunc' declared here-404348993#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h0000000000000000^506#21#506#21#17667#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@79"file:///Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp0000000000000000^501#4#501#4#12745#0#12"Deprecations--2@62"'glutDisplayFunc' is deprecated: first deprecated in OS X 10.9-404348993#18446744073709551615#0#1(2@31"'glutDisplayFunc' declared here-404348993#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h0000000000000000^504#21#504#21#17474#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@79"file:///Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp0000000000000000^502#1#502#1#12784#0#12"Deprecations--2@62"'glutSpecialFunc' is deprecated: first deprecated in OS X 10.9-404348993#18446744073709551615#0#1(2@31"'glutSpecialFunc' declared here-404348993#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h0000000000000000^516#21#516#21#18615#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@79"file:///Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp0000000000000000^503#4#503#4#12870#0#12"Deprecations--2@61"'glutMotionFunc' is deprecated: first deprecated in OS X 10.9-404348993#18446744073709551615#0#1(2@30"'glutMotionFunc' declared here-404348993#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h0000000000000000^508#21#508#21#17900#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@79"file:///Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp0000000000000000^504#4#504#4#12905#0#12"Deprecations--2@59"'glutIdleFunc' is deprecated: first deprecated in OS X 10.9-404348993#18446744073709551615#0#1(2@28"'glutIdleFunc' declared here-404348993#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h0000000000000000^512#21#512#21#18284#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@79"file:///Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp0000000000000000^506#4#506#4#12996#0#12"Deprecations--2@59"'glutMainLoop' is deprecated: first deprecated in OS X 10.9-404348993#18446744073709551615#0#1(2@28"'glutMainLoop' declared here-404348993#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h0000000000000000^437#21#437#21#13367#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@79"file:///Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp0000000000000000^511#1#511#1#13049#0#12"Deprecations--2@84"Implicit conversion loses integer precision: 'time_t' (aka 'long') to 'unsigned int'-404348993#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@79"file:///Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp0000000000000000^489#10#489#10#12403#0#22"Value Conversion Issue2(3@79"file:///Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp0000000000000000^489#10#489#17#12403#6#3@79"file:///Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp0000000000000000^489#4#489#9#12397#0#-0#0#1#-19%DVTDocumentLocation4@79"file:///Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp0000000000000000^2874"CompileC build/Assignment2.build/Debug/Assignment2.build/Objects-normal/x86_64/Assignment1.o Assignment2/Assignment1.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Jason/Documents/Developer/Assignment2    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/Jason/Documents/Developer/Assignment2/build/Assignment2.build/Debug/Assignment2.build/Assignment2-generated-files.hmap -I/Users/Jason/Documents/Developer/Assignment2/build/Assignment2.build/Debug/Assignment2.build/Assignment2-own-target-headers.hmap -I/Users/Jason/Documents/Developer/Assignment2/build/Assignment2.build/Debug/Assignment2.build/Assignment2-all-target-headers.hmap -iquote /Users/Jason/Documents/Developer/Assignment2/build/Assignment2.build/Debug/Assignment2.build/Assignment2-project-headers.hmap -I/Users/Jason/Documents/Developer/Assignment2/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Jason/Documents/Developer/Assignment2/build/Assignment2.build/Debug/Assignment2.build/DerivedSources/x86_64 -I/Users/Jason/Documents/Developer/Assignment2/build/Assignment2.build/Debug/Assignment2.build/DerivedSources -F/Users/Jason/Documents/Developer/Assignment2/build/Debug -MMD -MT dependencies -MF /Users/Jason/Documents/Developer/Assignment2/build/Assignment2.build/Debug/Assignment2.build/Objects-normal/x86_64/Assignment1.d --serialize-diagnostics /Users/Jason/Documents/Developer/Assignment2/build/Assignment2.build/Debug/Assignment2.build/Objects-normal/x86_64/Assignment1.dia -c /Users/Jason/Documents/Developer/Assignment2/Assignment2/Assignment1.cpp -o /Users/Jason/Documents/Developer/Assignment2/build/Assignment2.build/Debug/Assignment2.build/Objects-normal/x86_64/Assignment1.o36"D3FF0203-D132-4EF3-A694-23B0204E053E-
+b6CC2F363-0896-4FE6-BD49-3EBED67C818D
+
+CCompileC build/Assignment2.build/Debug/Assignment2.build/Objects-normal/x86_64/Particle.o /Users/Jason/Documents/Developer/Assignment2/Assignment2/Particle.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s404348993.254985
+e404348993.651215
+r1
+xCompileC
+xbuild/Assignment2.build/Debug/Assignment2.build/Objects-normal/x86_64/Particle.o
+x/Users/Jason/Documents/Developer/Assignment2/Assignment2/Particle.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Jason/Documents/Developer/Assignment2/Assignment2/Particle.cpp
+d/Users/Jason/Documents/Developer/Assignment2/Assignment2/Particle.h
+d/Users/Jason/Documents/Developer/Assignment2/Assignment2/2DMathLib.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/Jason/Documents/Developer/Assignment2/Assignment2/Particle.cpp176"CompileC build/Assignment2.build/Debug/Assignment2.build/Objects-normal/x86_64/Particle.o Assignment2/Particle.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerb9c44141e019b841^80b5a641e019b841^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/Jason/Documents/Developer/Assignment2/Assignment2/Particle.cpp0000000000000000^2856"CompileC build/Assignment2.build/Debug/Assignment2.build/Objects-normal/x86_64/Particle.o Assignment2/Particle.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Jason/Documents/Developer/Assignment2    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/Jason/Documents/Developer/Assignment2/build/Assignment2.build/Debug/Assignment2.build/Assignment2-generated-files.hmap -I/Users/Jason/Documents/Developer/Assignment2/build/Assignment2.build/Debug/Assignment2.build/Assignment2-own-target-headers.hmap -I/Users/Jason/Documents/Developer/Assignment2/build/Assignment2.build/Debug/Assignment2.build/Assignment2-all-target-headers.hmap -iquote /Users/Jason/Documents/Developer/Assignment2/build/Assignment2.build/Debug/Assignment2.build/Assignment2-project-headers.hmap -I/Users/Jason/Documents/Developer/Assignment2/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Jason/Documents/Developer/Assignment2/build/Assignment2.build/Debug/Assignment2.build/DerivedSources/x86_64 -I/Users/Jason/Documents/Developer/Assignment2/build/Assignment2.build/Debug/Assignment2.build/DerivedSources -F/Users/Jason/Documents/Developer/Assignment2/build/Debug -MMD -MT dependencies -MF /Users/Jason/Documents/Developer/Assignment2/build/Assignment2.build/Debug/Assignment2.build/Objects-normal/x86_64/Particle.d --serialize-diagnostics /Users/Jason/Documents/Developer/Assignment2/build/Assignment2.build/Debug/Assignment2.build/Objects-normal/x86_64/Particle.dia -c /Users/Jason/Documents/Developer/Assignment2/Assignment2/Particle.cpp -o /Users/Jason/Documents/Developer/Assignment2/build/Assignment2.build/Debug/Assignment2.build/Objects-normal/x86_64/Particle.o36"159BBC96-0EBA-401F-B843-EDD8DEC891E6-
+b6CC2F363-0896-4FE6-BD49-3EBED67C818D
+
+CCompileC build/Assignment2.build/Debug/Assignment2.build/Objects-normal/x86_64/main-D3C2D66D9E188C5D.o /Users/Jason/Documents/Developer/Assignment2/Assignment2/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Assignment2.build/Debug/Assignment2.build/Objects-normal/x86_64/main.o /Users/Jason/Documents/Developer/Assignment2/Assignment2/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CLd /Users/Jason/Documents/Developer/Assignment2/build/Debug/Assignment2 normal x86_64
+s404348993.757514
+e404348993.833357
+r1
+xLd
+x/Users/Jason/Documents/Developer/Assignment2/build/Debug/Assignment2
+xnormal
+xx86_64
+d/Users/Jason/Documents/Developer/Assignment2/build/Assignment2.build/Debug/Assignment2.build/Objects-normal/x86_64/Assignment2.LinkFileList
+d/Users/Jason/Documents/Developer/Assignment2/build/Assignment2.build/Debug/Assignment2.build/Objects-normal/x86_64/Assignment1.o
+d/Users/Jason/Documents/Developer/Assignment2/build/Assignment2.build/Debug/Assignment2.build/Objects-normal/x86_64/Particle.o
+d/Users/Jason/Documents/Developer/Assignment2/build/Assignment2.build/Debug/Assignment2.build/Objects-normal/x86_64/2DMathLib.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/OpenGL
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/GLUT
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libc++.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Link /Users/Jason/Documents/Developer/Assignment2/build/Debug/Assignment240"Ld build/Debug/Assignment2 normal x86_646c08c241e019b841^2657d541e019b841^---0#0#1#--952"Ld build/Debug/Assignment2 normal x86_64    cd /Users/Jason/Documents/Developer/Assignment2    setenv MACOSX_DEPLOYMENT_TARGET 10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/Jason/Documents/Developer/Assignment2/build/Debug -F/Users/Jason/Documents/Developer/Assignment2/build/Debug -filelist /Users/Jason/Documents/Developer/Assignment2/build/Assignment2.build/Debug/Assignment2.build/Objects-normal/x86_64/Assignment2.LinkFileList -mmacosx-version-min=10.9 -stdlib=libc++ -framework OpenGL -framework GLUT -Xlinker -dependency_info -Xlinker /Users/Jason/Documents/Developer/Assignment2/build/Assignment2.build/Debug/Assignment2.build/Objects-normal/x86_64/Assignment2_dependency_info.dat -o /Users/Jason/Documents/Developer/Assignment2/build/Debug/Assignment236"CFB454B9-84AA-4333-924C-C4480C668E9A-
+b6CC2F363-0896-4FE6-BD49-3EBED67C818D
+
