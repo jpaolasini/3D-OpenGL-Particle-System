@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/Jason/Documents/Developer/Assignment2/Assignment2/3DMathLib.cpp \
-  /Users/Jason/Documents/Developer/Assignment2/Assignment2/3DMathLib.h
+  /Users/Jason/Developer/3D-OpenGL-Particle-System/Assignment2/3DMathLib.cpp \
+  /Users/Jason/Developer/3D-OpenGL-Particle-System/Assignment2/3DMathLib.h

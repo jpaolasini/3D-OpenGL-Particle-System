@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2002AA9E-FC90-404B-98C8-AB828260AAFD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Assignment2</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6F6C494B-F42D-4968-A24E-D5FFBE829067</key>
+		<string>https://github.com/Shadrongowes/3D-OpenGL-Particle-System.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Assignment2.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6F6C494B-F42D-4968-A24E-D5FFBE829067</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Shadrongowes/3D-OpenGL-Particle-System.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6F6C494B-F42D-4968-A24E-D5FFBE829067</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6F6C494B-F42D-4968-A24E-D5FFBE829067</string>
+			<key>IDESourceControlWCCName</key>
+			<string>3D-OpenGL-Particle-System</string>
+		</dict>
+	</array>
+</dict>
+</plist>

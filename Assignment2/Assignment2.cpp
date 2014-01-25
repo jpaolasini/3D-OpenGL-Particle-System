@@ -1,6 +1,6 @@
 /*Beware of the Bomb by Jason Paolasini
  Student Number 1162915
- 3GC3 Assignment 12
+
  */
 
 
